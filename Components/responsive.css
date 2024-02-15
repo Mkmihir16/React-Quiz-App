@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.quizapp{
+    width: 90vw;
+}
+.quizapp h1{
+    font-size: 1.5rem;
+}
+.quizapp h2{
+    font-size: 1.2rem;
+    margin: 8px 0;
+}
+.quizapp ul li{
+    padding: 5px 8px;
+   width: 80%;
+   margin:  1rem auto;
+}
+.nextbtn{
+    padding: 5px 12px;
+    font-size: 16px;
+}
