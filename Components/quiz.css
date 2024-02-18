@@ -41,5 +41,5 @@ text-align: center;
     cursor: pointer;
 }
 .ans{
-    background-color: red;
+    background-image: linear-gradient(to right, #bb4fff, #817bff, #4995ff, #34a7ff, #58b4e9);
 }
